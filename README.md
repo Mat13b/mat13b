@@ -15,7 +15,7 @@ Sinon , Je suis toujours à la recherche d'apprendre des vhoses technique avec d
 ### Développement Web :
 - Front-end: HTML, CSS, JavaScript, React, Vue.js, Angular
 
-- Back-end : Node.js
+- Back-end : Node.js , Next .js, sqlest ses declinaisons
 
 ### Developpement Mobile :
 
